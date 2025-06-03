@@ -1,0 +1,37 @@
+site_name: LincsLabs Documentation
+nav:
+  - Home: index.md
+  - Lancaster Build:
+      - Introduction: lancaster/intro.md
+      - Unboxing: lancaster/unbox.md
+      - Plane: lancaster/plane.md
+      - Bracket: lancaster/bracket.md
+  - FAQ: faq.md
+site_url: https://sitename.example
+theme:
+  logo: assets/logo.png
+  name: material
+  favicon: assets/logo.png
+  features:
+    - toc.integrate
+
+    
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  social:
+    - icon: simple/facebook
+      link: https://www.facebook.com/profile.php?id=61563332027667
+    - icon: simple/instagram
+      link: https://www.instagram.com/lincslabs/
+
+  
