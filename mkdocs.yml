@@ -1,4 +1,5 @@
 site_name: LincsLabs Documentation
+site_url: https://docs.lincslabs.co.uk
 nav:
   - Home: index.md
   - Lancaster Build:
@@ -7,7 +8,6 @@ nav:
       - Plane: lancaster/plane.md
       - Bracket: lancaster/bracket.md
   - FAQ: faq.md
-site_url: https://docs.lincslabs.co.uk
 theme:
   logo: assets/logos/full.png
   name: material
