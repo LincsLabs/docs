@@ -9,11 +9,17 @@ nav:
   - FAQ: faq.md
 site_url: https://sitename.example
 theme:
-  logo: assets/logo.png
+  logo: assets/logos/full.png
   name: material
-  favicon: assets/logo.png
+  favicon: assets/logos/sqaure.ico
   features:
     - toc.integrate
+  palette: 
+    scheme: default
+    primary: white
+    accent: indigo
+  
+
 
     
 markdown_extensions:
