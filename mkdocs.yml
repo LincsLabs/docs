@@ -3,7 +3,7 @@ site_url: https://docs.lincslabs.co.uk
 nav:
   - Home: index.md
   - Lancaster Build:
-      - Introduction: lancaster/intro.md
+      - Introduction: lancaster.md
       - Unboxing: lancaster/unbox.md
       - Plane: lancaster/plane.md
       - Bracket: lancaster/bracket.md

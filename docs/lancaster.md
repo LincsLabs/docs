@@ -15,7 +15,7 @@ There are two assemblies that make up the Lancaster:
 - The Plane - We'll build this first.
 - The Bracket - We'll attach this to the wall, then attach the plane to the bracket.
 
-![Image title](photos/Drawing.jpeg) 
+![Image title](lancaster/photos/Drawing.jpeg) 
 
 ## Help
 
@@ -38,7 +38,7 @@ Expect assembly to take about 60 minutes.
 
 ## Next steps
 
-Let's start with [unboxing](unbox.md)
+Let's start with [unboxing](lancaster/unbox.md)
 
 
 

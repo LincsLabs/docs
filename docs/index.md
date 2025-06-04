@@ -8,6 +8,6 @@ Something look wrong? Having trouble with your product? Please [reach out](https
 
 ## Latest Build Instructions
 
-[Lancaster Bomber Build](lancaster/intro.md)
+[Lancaster Bomber Build](lancaster.md)
 
 
