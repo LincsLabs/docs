@@ -15,8 +15,6 @@ There are two assemblies that make up the Lancaster:
 - The Plane - We'll build this first.
 - The Bracket - We'll attach this to the wall, then attach the plane to the bracket.
 
-![Image title](lancaster/photos/Drawing.jpeg) 
-
 ## Help
 
 If during the build you notice an issue with your kit, or an error in the build instructions, please reach out to us via our [contact us](https://lincslabs.co.uk/pages/contact) page. We'll be back in touch asap.
