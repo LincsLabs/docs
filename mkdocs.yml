@@ -7,7 +7,7 @@ nav:
       - Plane: lancaster/plane.md
       - Bracket: lancaster/bracket.md
   - FAQ: faq.md
-site_url: https://sitename.example
+site_url: https://docs.lincslabs.co.uk
 theme:
   logo: assets/logos/full.png
   name: material
@@ -18,21 +18,17 @@ theme:
     scheme: default
     primary: white
     accent: indigo
-  
-
-
-    
-markdown_extensions:
-  - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - pymdownx.blocks.caption
 extra:
   social:
     - icon: simple/facebook

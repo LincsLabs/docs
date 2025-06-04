@@ -1,22 +1,25 @@
 # Lancaster Bomber Build
 
-Thank you so much for purchasing one of our Lancaster Bomber kits. These are the assmebly instructions for the v1 LincsLabs Lancaster Bomber.
+Firstly, thank you for purchasing one of our Lancaster Bomber kits and supporting our small business. 
 
-!!! Danger
-    Ensure adequte PPE is worn during assembly. There is likely to be some sharp edges present.
+Please consider leaving using a [Review](https://www.facebook.com/LincsLabs/reviews) once you've completed your build. It really helps us bring you new and exciting products.
 
-## Before you begin
+The following information will help you assemble your v1 LincsLabs Lancaster Bomber.
 
-There are two major assemblies that make up the Lancaster:
+!!! Danger "Wear Appropriate PPE"
+    We strongly reccomend wearing safety glasses and gloves throughout assembly. It's likely there are some sharp edges remaining from the cutting and bending processes. 
+    
 
-- The Plane
-- The Bracket
+There are two assemblies that make up the Lancaster:
 
-We'll walk through step-by-step off assembly.
+- The Plane - We'll build this first.
+- The Bracket - We'll attach this to the wall, then attach the plane to the bracket.
+
+![Image title](photos/Drawing.jpeg) 
 
 ## Help
 
-If throughout this guide you spot any errors or something that is unclear - please reach out to us via our [contact us](https://lincslabs.co.uk/pages/contact) page. 
+If during the build you notice an issue with your kit, or an error in the build instructions, please reach out to us via our [contact us](https://lincslabs.co.uk/pages/contact) page. We'll be back in touch asap.
 
 ## Timing
 
@@ -31,7 +34,7 @@ Expect assembly to take about 60 minutes.
 - Power drill and 6mm masonary drill bit (if fixing to a masonary wall)
 
 !!! tip
-    If you have access to a vice, it will make assembly of the plane a little easier.
+    If you have access to a bench vice, you can use this to hold the plane fusealage and make assembly a little easier.
 
 ## Next steps
 
