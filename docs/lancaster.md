@@ -6,10 +6,6 @@ Please consider leaving using a [Review](https://www.facebook.com/LincsLabs/revi
 
 The following information will help you assemble your v1 LincsLabs Lancaster Bomber.
 
-!!! Danger "Wear Appropriate PPE"
-    We strongly reccomend wearing safety glasses and gloves throughout assembly. It's likely there are some sharp edges remaining from the cutting and bending processes. 
-    
-
 There are two assemblies that make up the Lancaster:
 
 - The Plane - We'll build this first.

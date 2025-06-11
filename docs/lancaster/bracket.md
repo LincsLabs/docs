@@ -1,5 +1,15 @@
 ## Pivot Mount
 
+![45](photos/45.jpeg)
+
+![43](photos/43.jpeg)
+
+![44](photos/44.jpeg)
+
+![41](photos/41.jpeg)
+
+![42](photos/42.jpeg)
+
 ## Fixing to the Wall
 
 ## Attaching the Lancaster

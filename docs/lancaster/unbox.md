@@ -1,4 +1,8 @@
-Start by removing all of the components within the cardboard box. It should containn:
+Start by removing all of the components within the cardboard box. 
+
+![Layflat](photos/Layflat.jpeg)
+
+The box should containn:
 
 - 1x Fuselage
 - 2x Wing Brackets
@@ -8,10 +12,11 @@ Start by removing all of the components within the cardboard box. It should cont
 - 2x Small Engines
 - 2x Large Engines
 - 4x Propellers (with olite brass bushes pre-installed)
-- 1x Bag containing all stainless fixings:
+- 1x Bag containing all M6 stainless fixings
     - 40x M6x16mm Socket Button Screws
     - 40x M6 Nyloc Locking Nuts
     - 40x M6 Flat Washers
+- 1x Bag containing M8 and M10 stainless fixings
     - 4x M8x30mm Socket Button Screws
     - 8x M8 Flat Washers
     - 4x M8 Plain Nuts
@@ -19,8 +24,18 @@ Start by removing all of the components within the cardboard box. It should cont
     - 1x M10x25mm Hex Head Screws
     - 2x M10 Flat Washer
     - 1x M10 Nyloc Locking Nut
-    - 6x 5x40mm Posi-Drive Screws
+- 1x Bag containing wall mount fixings
+    - 6x 5x40mm Posi-Drive stainless Screws
     - 6x 6mm Wall Plugs
+
+!!!Tip
+    It's useful to empty the fixgings into containers for easier access during assembly!
+
+    ![Fixings](photos/Fixings.jpeg)
+
+## Missing something?
+
+[Reach out](https://lincslabs.co.uk/pages/contact), we'll make it right.
 
 ## Next steps
 
