@@ -20,7 +20,7 @@ You'll need a 4mm hex key and a 10mm spanner or socket to tighten them up.
 
 Fit the remaining 4 bolts, then tighten them all up together.
 
-!!!Tip
+!!!TIP
     It's not neccesary, but if you have access to a bench vice, it'll make assembly a little easier. 
 
 ![8](photos/8.jpeg)
@@ -100,7 +100,7 @@ The propellers use M8 hardware, so you'll need your 5mm hex key and 2x 13mm span
 
 Place the M8x30mm screw into the brass bushing so the screw head is against the large flat section of the bushing.
 
-Then add the plain M8 nut, nip it hand tight against the bushing. Then add a washer - now it's ready to go into the wing.
+Now add the plain M8 nut, nip it hand tight against the bushing, then add a washer - now it's ready to go into the wing.
 
 ![36](photos/36.jpeg)
 
@@ -110,13 +110,17 @@ Add a second washer and a nylock nut onto the rear side.
 
 ![38](photos/38.jpeg)
 
-Using a spanner on the nylock nut and the 5mm hex key, tighten the screw so that plain nut and the nylock nut are tight against the wing tab.
+Using a spanner on the nylock nut and the 5mm hex key, tighten the screw so that the plain nut and the nylock nut are tight against the wing tab.
 
 Check the propeller - **at this point it should not move**.
 
 Now using your second 13mm spanner, tighten both the plain and nylock nuts together - just enough so that the propeller can spin freely.
 
-![39](photos/39.jpeg)
+![PropBoltingGif](photos/PropBolting.gif)
+
+Repeat these steps for all four propellers.
+
+**Then that's it! The plane assembly is complete.**
 
 ![40](photos/40.jpeg)
 

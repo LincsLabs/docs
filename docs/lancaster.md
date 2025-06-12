@@ -27,7 +27,10 @@ Expect assembly to take about 60 minutes.
 - 10mm, 13mm and 17mm spanners.
 - Power drill and 6mm masonary drill bit (if fixing to a masonary wall)
 
-!!! tip
+!!! DANGER
+    There are likely to be sharp edges present in the laser cut parts. Please be careful during assembly and wear appropriate gloves.
+
+!!! TIP
     If you have access to a bench vice, you can use this to hold the plane fusealage and make assembly a little easier.
 
 ## Next steps
