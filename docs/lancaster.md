@@ -2,9 +2,9 @@
 
 Firstly, thank you for purchasing one of our Lancaster Bomber kits and supporting our small business. 
 
-Please consider leaving using a [Review](https://www.facebook.com/LincsLabs/reviews) once you've completed your build. It really helps us bring you new and exciting products.
+Please consider leaving using a [review](https://www.facebook.com/LincsLabs/reviews) once you've completed your build. It really helps us bring you new and exciting products.
 
-The following information will help you assemble your v1 LincsLabs Lancaster Bomber.
+The following information will help you assemble your LincsLabs Lancaster Bomber.
 
 There are two assemblies that make up the Lancaster:
 
@@ -23,9 +23,10 @@ Expect assembly to take about 60 minutes.
 
 - Your packaged Lancaster Bomber.
 - A clear, flat table top for assembly.
-- 4mm and 6mm allen (hex) keys.
-- 10mm, 13mm and 17mm spanners.
+- 4mm and 5mm allen (hex) keys.
+- 1x 10mm, 2x 13mm and 2x 17mm spanners.
 - Power drill and 6mm masonary drill bit (if fixing to a masonary wall)
+- 1x Posi-drive screwdriver for the wall bracket screws
 
 !!! DANGER
     There are likely to be sharp edges present in the laser cut parts. Please be careful during assembly and wear appropriate gloves.

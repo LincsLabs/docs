@@ -37,11 +37,15 @@ The box should contain:
 
 ## Surface Marks and Cleaning
 
-You may notice light scratch marks, burn marks, or a protective oil coating on the aluminium parts. **These are completely normal and easy to clean.** They happen as part of the laser cutting and bending process during manufacturing.
+Some aluminium parts may arrive with minor surface scratches, discoloration, or a light protective oil coating. These marks are a byproduct of the laser cutting and bending process. We know they’re not ideal — but unfortunately, they’re unavoidable at this stage of manufacturing.
 
-To clean off the burn marks and protective oil coating, use a sponge with warm, soapy water.
+To clean and improve the finish:
 
-To polish out the scratch marks, use a brillio-pad or scotch brite.
+Use a sponge with warm, soapy water to remove any discoloration and oil residue.
+
+For surface scratches, gently polish the part using a Brillo pad or Scotch-Brite. This will help blend the scratches and improve the overall appearance.
+
+These steps are optional but can help improve the final finsh.
 
 ![Clean1](photos/Clean1.jpeg)
 ![Clean2](photos/Clean2.jpeg)
