@@ -7,7 +7,6 @@ nav:
       - Unboxing: lancaster/unbox.md
       - Plane: lancaster/plane.md
       - Bracket: lancaster/bracket.md
-  - FAQ: faq.md
 theme:
   logo: assets/logos/full.png
   name: material

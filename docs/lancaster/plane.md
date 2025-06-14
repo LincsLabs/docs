@@ -8,7 +8,7 @@ Start with 1 screw at either end to make things easy.
 
 ![1](photos/1.jpeg)
 
-All of the plane components are fixed with M6x16mm screws, the washer should be place behind the nylock nut as shown:
+All of the plane components are fixed with M6x16mm screws, the washer should be placed behind the nylock nut as shown:
 
 ![6](photos/6.jpeg)
 
