@@ -2,6 +2,8 @@
 
 Firstly, thank you for purchasing one of our Lancaster Bomber kits and supporting our small business. 
 
+![TotalLandscape](lancaster/photos/totallandscape.jpeg)
+
 Please consider leaving us a [review](https://www.facebook.com/LincsLabs/reviews) once you've completed your build. It really helps us bring you new and exciting products.
 
 The following information will help you assemble your LincsLabs Lancaster Bomber.

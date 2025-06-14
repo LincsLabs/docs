@@ -7,6 +7,7 @@ The box should contain:
 - 1x Fuselage
 - 2x Wing Brackets
 - 2x Wings
+- 1x Mounting Bracket
 - 2x Tail Brackets
 - 2x Tail Fins
 - 2x Small Engines
@@ -31,7 +32,7 @@ The box should contain:
     - 6x 6mm Wall Plugs
 
 !!!Tip
-    It's useful to empty the fixgings into containers for easier access during assembly!
+    It's useful to empty the fixings into containers for easier access during assembly!
 
     ![Fixings](photos/Fixings.jpeg)
 
