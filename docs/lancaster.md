@@ -2,7 +2,7 @@
 
 Firstly, thank you for purchasing one of our Lancaster Bomber kits and supporting our small business. 
 
-![TotalLandscape](lancaster/photos/totallandscape.jpeg)
+![TotalLandscape](lancaster/photos/TotalLandscape.jpeg)
 
 Please consider leaving us a [review](https://www.facebook.com/LincsLabs/reviews) once you've completed your build. It really helps us bring you new and exciting products.
 
@@ -31,10 +31,10 @@ Expect assembly to take about 60 minutes.
 - 1x Posi-drive screwdriver for the wall bracket screws
 
 !!! DANGER
-    There are likely to be sharp edges present in the laser cut parts. Please be careful during assembly and wear appropriate gloves.
+    There are likely to be sharp edges present in the laser cut parts. Please be careful during assembly and wear protective gloves when appropriate.
 
 !!! TIP
-    If you have access to a bench vice, you can use this to hold the plane fusealage and make assembly a little easier.
+    It's not necessary, but if you have access to a bench vice, you can use this to hold the plane fusealage and make assembly a little easier.
 
 ## Next steps
 
